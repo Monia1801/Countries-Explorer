@@ -30,6 +30,9 @@ Countries Explorer is a responsive web application that allows users to search a
 
 ---
 
+## 📂 Project Structure
+
+```text
 countries-explorer/
 │── index.html
 │── style.css
