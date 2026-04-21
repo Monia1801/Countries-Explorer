@@ -5,7 +5,7 @@ Countries Explorer is a responsive web application that allows users to search a
 ---
 
 ## 🚀 Live Demo
-https://Monia1801.github.io/countries-explorer/
+[https://Monia1801.github.io/countries-explorer/](https://monia1801.github.io/Countries-Explorer/)
 
 ---
 
