@@ -38,7 +38,7 @@ countries-explorer/
 │── style.css
 │── script.js
 │── README.md
-
+```
 
 ---
 
