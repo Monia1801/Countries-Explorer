@@ -51,7 +51,7 @@ countries-explorer/
 ## 🧪 Run Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/countries-explorer.git
+git clone https://github.com/Monia1801/countries-explorer.git
 
 2. Open the folder  
 
@@ -71,7 +71,7 @@ git clone https://github.com/your-username/countries-explorer.git
 ## 👩‍💻 Author
 
 Monia Voona  
-GitHub: https://github.com/your-username  
+GitHub: https://github.com/Monia1801
 
 ---
 
